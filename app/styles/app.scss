@@ -21,6 +21,26 @@ img {
   height: 250px;
 }
 
+.files-1,
+.files-2,
+.files-3,
+.files-4,
+.files-5,
+.mail-1,
+.mail-2,
+.mail-3,
+.mail-4,
+.mail-5,
+.cloud-1,
+.cloud-2,
+.cloud-3,
+.cloud-4,
+.cloud-5,
+.cloud-6{
+  padding-right: 5px;
+}
+
+
 .files-01,
 .files-02,
 .files-03,
@@ -78,7 +98,7 @@ li{
     /* Type */
     font-size:1.200em;
     text-shadow:0px 1px 0px #1a1a1a;
-    color:#fff;
+    color:lightgrey;
 }
 
 .accordion-section-title.active, .accordion-section-title:hover {
